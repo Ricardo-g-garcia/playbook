@@ -7,3 +7,5 @@ Ejemplo 1: Definiendo el primer modulo en node.
 Ejemplo 2: Usando exports y require
 
 Ejemplo 3: Usando module.exports
+
+Ejemplo 4: Usnado constructores y this
