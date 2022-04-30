@@ -8,4 +8,4 @@ Ejemplo 2: Usando exports y require
 
 Ejemplo 3: Usando module.exports
 
-Ejemplo 4: Usnado constructores y this
+Ejemplo 4: Usando constructores y this
