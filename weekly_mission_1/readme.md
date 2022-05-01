@@ -16,6 +16,10 @@ Ejemplo 6: Mas clases e instancias de objetos
 
 Ejemplo 7: Exporta funciones constantes, objetos y clases
 
+Ejemplo 8: Export Default
+
+
+
 
 
 
