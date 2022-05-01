@@ -8,4 +8,8 @@ Ejemplo 2: Usando exports y require
 
 Ejemplo 3: Usando module.exports
 
-Ejemplo 4: Usando constructores y this
+Ejemplo 4: Usando constructores y this en una clase
+
+Ejemplo 5: Usando clases e Instanciaciando del objeto y exportándolo
+
+
