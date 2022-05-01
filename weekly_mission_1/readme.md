@@ -14,4 +14,8 @@ Ejemplo 5: Usando clases e Instanciaciando del objeto y exportándolo
 
 Ejemplo 6: Mas clases e instancias de objetos
 
+Ejemplo 7: Exporta funciones constantes, objetos y clases
+
+
+
 
